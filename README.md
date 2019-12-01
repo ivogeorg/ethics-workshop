@@ -53,10 +53,13 @@ _Note: Class activities are group but individual submissions are required for gr
    1. Below, list at least 3 adverse effects (including but not limited to _misuse_) of the innovation and anticipatory actions and mechanisms you can embed that
    2. Below, give an _explicit_ definition of the fine line between the benefit and detriment of your innovation at two moments of its lifetime: (i) immediately upon launch; (ii) after enough time for it to be absorbed into everyday life.
    
-3. Your small _"band of merry psychopaths"_ are the pivotal social kernel that can define the proper use of your technology. And you have to start early, and hold the line. How are you going to ensure that you stay the course? Below, define a Code of Ethics (aka Code of Conduct) for your organization that will safeguard your original intentions and values while not stiflying innovation as your startup grows and matures. Your code should have _at most 9 points_.
+3. Your small "[band of merry psychopaths](#the-band)" are the pivotal social kernel that can define the proper use of your technology. You have to start early, and hold the line. How are you going to ensure that you stay the course? 
+   1. Below, define a Code of Ethics (aka Code of Conduct) for your organization that will safeguard your original intentions and values while not stiflying innovation as your startup grows and matures. Your code should have _at most 9 points_.
 
 4. **(BONUS)** Ethical codes are vulnerable to _hostile takeover_ of the adopting organization. Pick one person from your group and let them _remove 3 points_ from your Code, at their discretion, to be the most damaging overall. 
    1. Below, discuss how and why the Code has been weakened.
    2. Below, discuss how, in retrospect, you should have stated the points of the Code, to make it _robust to disruption_. _Note: Beware of the [paradox of self-amendment](https://legacy.earlham.edu/~peters/writing/psaessay.htm), which, in short, **"...arises when a rule is used as the authority for its own amendment. It is sharper when the rule of change is supreme, sharper still when it is changed into a form that is inconsistent with its original form, and sharpest of all when the change purports to be irrevocable."**_
 
 
+#### The Band
+The derogatory expression _band of merry psychopaths_ is used in writing to refer to a small _group of irresponsible or deliberately hostile people with a lot of power_ to affect the world around them.
