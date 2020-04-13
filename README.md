@@ -12,7 +12,7 @@
 	 
 2. ACM Code of Ethics: https://www.acm.org/code-of-ethics 	
 
-3. Microsoft Open Source of Conduct: https://opensource.microsoft.com/codeofconduct/ 	
+3. Microsoft Open Source Code of Conduct: https://opensource.microsoft.com/codeofconduct/ 	
 
 4. Data Ethics: https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0360 	
 
@@ -50,7 +50,7 @@ _Note: Class activities are group but individual submissions are required for gr
    3. Describe your technical innovation below.
    
 2. Describe the ways your innovation, if realized, would affect society. 
-   1. Below, list at least 3 adverse effects (including but not limited to _misuse_) of the innovation and anticipatory actions and mechanisms you can embed that
+   1. Below, list at least 3 adverse effects (including but not limited to _misuse_) of the innovation and anticipatory actions and mechanisms you can embed in its deveopment, distribution, and operation that can counteract these effects.
    2. Below, give an _explicit_ definition of the fine line between the benefit and detriment of your innovation at two moments of its lifetime: (i) immediately upon launch; (ii) after enough time for it to be absorbed into everyday life.
    
 3. Your small "[band of merry psychopaths](#the-band)" are the pivotal social kernel that can define the proper use of your technology. You have to start early, and hold the line. How are you going to ensure that you stay the course? 
